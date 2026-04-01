@@ -1,0 +1,12 @@
+{
+  "track": "non_record_16mb",
+  "date": "2026-04-01",
+  "name": "10-Technique Stack: Weight Looping + Spelling Bee + Spatial Attention Bias + Momentum Tokens + SPECTRA",
+  "author": "Sakeeb Hasan",
+  "github_id": "Sakeebhasan123456",
+  "val_bpb": 1.3309,
+  "val_loss": 2.2472,
+  "num_params": 14076493,
+  "hardware": "1x NVIDIA H100 SXM 80GB HBM3",
+  "note": "Non-record submission, unlimited compute track. Run stopped at step 10,250/25,000 (~35 min elapsed on 1xH100). Curve still converging."
+}
